@@ -1,0 +1,16 @@
+{
+  "Home": "Home",
+  "AU": "About Us",
+  "Gallery": "Gallery",
+  "Contact": "Contact",
+  "Events": "Events",
+  "CL": "EN",
+  "Services": "Services",
+  "Coordinations": {
+    "title": "Coordinations",
+    "Technical": "Technical coordination",
+    "Academic": "Academic coordination",
+    "Company": "coordination with the company"
+  },
+  "UP": "Our mascot"
+}

@@ -1,0 +1,112 @@
+{
+  "Socialmedia": {
+    "Facebook": {
+      "url": ""
+    }
+  },
+
+  "Header": {
+    "name1": "Colegio Técnico Profesional",
+    "name2": "De Santo Domingo",
+    "description": "Technical training to build the future, develop talent, and prepare professionals for the challenges of the working world.",
+    "cta": "Discover our offerings"
+  },
+
+  "Vision": {
+    "title": "Vision",
+    "title2": "OUR VISION",
+
+    "body": "To be an educational institution recognized for its technical and academic excellence. The comprehensive training of human talent with a global approach, the management of information technologies and its commitment to social and environmental responsibility"
+  },
+
+  "Valores": {
+    "title": "Values",
+    "title2": "OUR IDENTITY",
+
+    "body": "To be an educational institution recognized for its technical and academic excellence. The integral formation of human talent with a global focus, management of information technologies, and a commitment to social and environmental responsibility",
+
+    "listValores": {
+      "Honesty": "Honesty",
+      "Respect": "Respect",
+      "Commitment": "Commitment",
+      "Responsability": "Responsibility",
+      "Trust": "Trust",
+      "Solidarity": "Solidarity",
+      "FACT": "Friendly and cordial treatment",
+      "TW": "Teamwork",
+      "DAE": "Dedication and effort"
+    }
+  },
+
+  "Mission": {
+    "title": "Mission",
+    "title2": "OUR MISSION",
+
+    "body": "The {{CTPName}} its objective is to train middle and high school technical professionals in competitive secondary education with leadership capabilities committed to work excellence and the presentation of the environment.",
+
+    "btn": "Visit our facilities"
+  },
+
+  "History": {
+    "title": "History",
+
+    "body-1": "In 2009, a bold vision began to take shape. Councilors Neftalí Moreira Ramírez and Hilda Villalobos Palma, with a deep commitment to education, included in their government program the creation of a technical college. This idea, supported by the community and local authorities, found fertile ground to grow.",
+
+    "body-2": "With the support of Congresswoman Sianny Villalobos Arguello and the then President of the Republic, the project came to life. Local leaders, businessmen, the church and the government joined forces to make this dream come true. After arduous planning and management work, a commission was formed to promote the creation of the school.",
+
+    "body-3": "Finally, in 2011, the City Council approved the proposal, ushering in a new era for education in Santo Domingo. Thanks to the joint effort of the entire community, the {{CTPName}} opened its doors, offering young people a quality education and opportunities for a promising future."
+  },
+
+  "EO": {
+    "title": "EDUCATIONAL OFFER",
+    "cta": "View specialty",
+    "timeDiurno": "Daytime",
+    "timeNocturna": "Night",
+    "Requirements": {
+      "title": "Requirements",
+      "1": "Be of legal age.",
+      "2": "Have the title of Diversified Education or the Bachelor's Degree in Secondary Education.",
+      "3": "Carry out and pass the enrollment process."
+    },
+
+    "body": "Our specialties",
+
+    "specialities": {
+      "DP": "Advertising design",
+      "ECYSA": "Sales and Customer Service Executive",
+      "CyF": "Accounting and finance",
+      "DDAM": "Mobile application development",
+      "DyMDE": "Drawing and modeling of buildings",
+      "EET": "Electronics in telecommunications",
+      "GDLP": "Production management",
+      "RDLVL": "Repair of light vehicles"
+    },
+    "specialities-2": {
+      "ECYSA": "Sales and Customer Service Executive",
+      "CySDRySO": "Network and operating system configuration and support",
+      "Contabilidad": "Accounting",
+      "ADLOA": "Administration of Customs operations",
+      "RDLVL": "Repair of light vehicles"
+    }
+  },
+
+  "Contact": {
+    "title": "CONTACT",
+    "description": "Have a question?",
+    "phone": "Phone",
+    "ubication": "Ubication",
+    "name": "Name",
+    "mail": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send"
+  },
+
+  "Events": "Events",
+
+  "Buttons": {
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "Add": "Add"
+  }
+}
