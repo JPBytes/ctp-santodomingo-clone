@@ -68,7 +68,7 @@ export default function Nav() {
   return (
     <>
       {/* ================= DESKTOP ================= */}
-      <nav className="sticky top-0 z-50 hidden border-b border-gray-100 bg-white/95 backdrop-blur-md dark:border-gray-800 dark:bg-gray-950/95 lg:block">
+      <nav className="sticky top-0 z-50 hidden border-b border-gray-100 bg-white/95 backdrop-blur-md dark:bg-gray-950/95 lg:block">
         <div className="mx-auto flex h-[82px] w-[92%] max-w-[1400px] items-center justify-between">
           {/* LOGO */}
           <Link to="/" className="flex items-center gap-3">
@@ -254,7 +254,7 @@ export default function Nav() {
       </nav>
 
       {/* ================= MOBILE ================= */}
-      <nav className="sticky top-0 z-50 border-b border-gray-100 bg-white/95 backdrop-blur-md dark:border-gray-800 dark:bg-gray-950/95 lg:hidden">
+      <nav className="sticky top-0 z-50 border-b border-gray-100 bg-white/95 backdrop-blur-md dark:bg-gray-950/95 lg:hidden">
         <div className="flex h-[72px] items-center justify-between px-5">
           {/* LOGO */}
           <Link to="/" className="flex items-center gap-2">
@@ -299,9 +299,8 @@ export default function Nav() {
 
         {/* MOBILE MENU */}
         {estadoNav && (
-          <div className="fixed inset-0 z-[100] bg-white dark:bg-gray-950">
-            {/* HEADER */}
-            <div className="flex h-[72px] items-center justify-between border-b border-gray-100 px-5 dark:border-gray-800">
+          <div className="fixed inset-0 z-[100] bg-white dark:bg-black">
+            <div className="flex h-[72px] items-center justify-between border-b  px-5">
               <Link
                 to="/"
                 onClick={closeMobileMenu}
@@ -333,7 +332,7 @@ export default function Nav() {
             </div>
 
             {/* LINKS */}
-            <div className="px-5 py-8">
+            <div className="px-5 py-8 bg-black">
               <p className="mb-4 text-xs font-semibold uppercase tracking-widest text-Atlantis">
                 Menú
               </p>
@@ -446,7 +445,7 @@ export default function Nav() {
               </div>
 
               {/* LANGUAGE */}
-              <div className="mt-8 border-t border-gray-100 pt-6 dark:border-gray-800">
+              <div className="mt-8 border-t border-gray-100 pt-6">
                 <button
                   onClick={changeLanguage}
                   className="flex w-full items-center justify-between rounded-lg border border-gray-200 px-4 py-4 dark:border-gray-700"
