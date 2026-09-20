@@ -61,7 +61,7 @@ export default function Events() {
     }
   };
 
-  const [eventos, setEventos] = useState([]);
+  const [, setEventos] = useState([]);
 
   const fetchEvents = async () => {
     try {

@@ -7,7 +7,7 @@ const date = new Date();
 const year = date.getFullYear();
 
 export default function Footer() {
-  const { t, i18n } = useTranslation("nav");
+  const { t } = useTranslation("nav");
   return (
     <div className="m-auto my-8 w-[90%]">
       <div className="hidden items-center justify-between text-black dark:text-White lg:flex">
